@@ -1,2 +1,2 @@
-# LARAVEL-PRODUCT CRUD
+# PRODUCT CRUD
 This is Product crud operation using Laravel.
